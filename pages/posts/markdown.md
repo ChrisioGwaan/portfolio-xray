@@ -1,9 +1,9 @@
 ---
-title: Markdown Examples
-date: 2021/3/19
-description: View examples of all possible Markdown options.
+title: Markdown Document
+date: 2023/12/19
+description: View document of all possible Markdown options.
 tag: web development
-author: You
+author: Chrisio
 ---
 
 # Markdown Examples
