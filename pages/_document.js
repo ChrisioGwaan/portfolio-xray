@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: 'Our portfolio',
     description: 'A portfolio for both of us',
-    image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+    image: 'https://drive.google.com/file/d/1kMOkOFQKpwB4CKjB2M9ZaTWrPp6-NV5w/view?usp=sharing'
   }
 
   return (
@@ -17,7 +17,7 @@ export default function Document() {
         <meta property="og:title" content={meta.title} />
         <meta property="og:image" content={meta.image} />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@Chrisio" />
+        <meta name="twitter:site" content="@ChrisioEvee" />
         <meta name="twitter:title" content={meta.title} />
         <meta name="twitter:description" content={meta.description} />
         <meta name="twitter:image" content={meta.image} />

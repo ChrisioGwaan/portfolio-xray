@@ -24,6 +24,10 @@ body {
   font-variation-settings: 'wght' 450;
   font-variant: common-ligatures contextual;
   letter-spacing: -0.02em;
+  background-image: url(/images/cherry-blossom1.png);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
 }
 b,
 strong,
@@ -54,6 +58,7 @@ details summary {
 
 img.next-image {
   margin: 0;
+  border-radius: 30px;
 }
 
 .prose a {
