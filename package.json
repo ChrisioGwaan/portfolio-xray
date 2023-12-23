@@ -2,9 +2,9 @@
   "private": true,
   "license": "MIT",
   "scripts": {
-    "dev": "next",
+    "dev": "next -p 3001",
     "build": "node ./scripts/gen-rss.js && next build",
-    "start": "next start"
+    "start": "next start -p 3001"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
