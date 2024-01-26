@@ -1,6 +1,11 @@
-# Welcome | Καλώς ήρθατε | 歡迎
+<div align="center">
+  <img width="100" src="public/images/dango.png" alt="Spotube Logo">
 
-This is a portfolio project using **Next.js** framework. Work in progress.
+# Ο φάκελός μας | 我哋嘅簡介
+
+`#ff91b5` - `#8cfa9e`
+
+</div>
 
 ## Development Setup
 
