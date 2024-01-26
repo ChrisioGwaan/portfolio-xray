@@ -1,11 +1,12 @@
 <div align="center">
   <img width="100" src="public/images/dango.png" alt="Spotube Logo">
 
-# Ο φάκελός μας | 我哋嘅簡介
-
-`#ff91b5` - `#8cfa9e`
+<p>Ο φάκελός μας | 我哋嘅簡介</p>
 
 </div>
+
+> [!IMPORTANT]
+> The pages are still being worked on. Stay tuned!
 
 ## Development Setup
 
