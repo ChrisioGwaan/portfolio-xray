@@ -5,7 +5,7 @@ const matter = require('gray-matter')
 
 async function generate() {
   const feed = new RSS({
-    title: 'Chrisio',
+    title: 'Chrisio & Evanthia Portfolio',
     site_url: 'https://portfolio-xray.vercel.app/',
     feed_url: 'https://portfolio-xray.vercel.app/feed.xml'
   })
