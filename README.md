@@ -36,7 +36,7 @@ npm run dev
 
 ### Access the website on browser
 
-Copy `http://127.0.0.1:3001` to your browser
+Copy `http://127.0.0.1:3000` to your browser
 
 ## License
 
@@ -44,8 +44,8 @@ This project is licensed under the MIT. This means that you are free to use, mod
 
 ### Authors
 
-- Weixi Guan (Chrisio Gwaan) - [@ChrisioGwaan](https://github.com/ChrisioGwaan)
-- Evanthia Evgenidis (Eva) - [@eva-e](https://github.com/eva-e)
+- Weixi (Chrisio) Guan - [@ChrisioGwaan](https://github.com/ChrisioGwaan)
+- Evanthia (Eva) Evgenidis - [@eva-e](https://github.com/eva-e)
 
 ### Usage and Restrictions
 
