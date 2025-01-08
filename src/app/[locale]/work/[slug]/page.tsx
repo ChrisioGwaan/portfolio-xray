@@ -37,8 +37,8 @@ export async function generateStaticParams(): Promise<{ slug: string; locale: st
 export function generateMetadata({ params: { slug, locale } }: WorkParams) {
 	let post = getPosts(['src', 'app', '[locale]', 'work', 'projects', locale]).find((post) => post.slug === slug)
 	
-	if (!post) {
-		return
+	if (!post || !post.metadata) {
+		return null;
 	}
 
 	let {
@@ -84,7 +84,8 @@ export default function Project({ params }: WorkParams) {
 	let post = getPosts(['src', 'app', '[locale]', 'work', 'projects', params.locale]).find((post) => post.slug === params.slug)
 
 	if (!post) {
-		notFound()
+		notFound();
+		return null;
 	}
 
 	const t = useTranslations();
