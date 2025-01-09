@@ -217,27 +217,27 @@ const gallery = {
     description: `A photo collection by ${person.name}`,
     images: [
         { 
-            src: '/images/gallery/img-01.jpg', 
+            src: '/images/gallery/img-01.png',
             alt: 'image',
             orientation: 'horizontal'
         },
         {
-            src: '/images/gallery/img-02.jpg',
+            src: '/images/gallery/img-02.png',
             alt: 'image',
             orientation: 'horizontal'
         },
         {
-            src: '/images/gallery/img-03.jpg',
+            src: '/images/gallery/img-03.png',
             alt: 'image',
             orientation: 'horizontal'
         },
         {
-            src: '/images/gallery/img-04.jpg',
+            src: '/images/gallery/img-04.png',
             alt: 'image',
             orientation: 'horizontal'
         },
         {
-            src: '/images/gallery/img-05.jpg',
+            src: '/images/gallery/img-05.png',
             alt: 'image',
             orientation: 'horizontal'
         },
