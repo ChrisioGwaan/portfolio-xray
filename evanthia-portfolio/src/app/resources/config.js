@@ -1,4 +1,4 @@
-const baseURL = 'portfolio-xray.vercel.app'
+const baseURL = 'portfolio-xray-evee.vercel.app'
 
 // Enable localization
 const i18n = false;
