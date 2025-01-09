@@ -5,9 +5,6 @@
 
 </div>
 
-> [!IMPORTANT]
-> The pages are still being worked on. Stay tuned!
-
 ## Development Setup
 
 ### **Node.js** installation
@@ -44,8 +41,8 @@ This project is licensed under the MIT. This means that you are free to use, mod
 
 ### Authors
 
-- Weixi (Chrisio) Guan - [@ChrisioGwaan](https://github.com/ChrisioGwaan) - [Portfolio](https://portfolio-xray.vercel.app/)
-- Evanthia (Eva) Evgenidis - [@eva-e](https://github.com/eva-e) - [Portfolio](https://portfolio-xray-evee.vercel.app/)
+- Weixi (Chrisio) Guan - [@ChrisioGwaan](https://portfolio-xray.vercel.app/)
+- Evanthia (Eva) Evgenidis - [@eva-e](https://portfolio-xray-evee.vercel.app/)
 
 ### Usage and Restrictions
 
