@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100" src="public/images/dango.png" alt="Spotube Logo">
 
-<p>Ο φάκελός μας | 我哋嘅簡介</p>
+<p>Ο φάκελός μας | 我哋嘅簡介 | Welcome to our portfolio</p>
 
 </div>
 
