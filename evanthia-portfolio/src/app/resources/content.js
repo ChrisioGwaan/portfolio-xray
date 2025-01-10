@@ -1,7 +1,7 @@
 import { InlineCode } from "@/once-ui/components";
 
 const person = {
-    firstName: 'Evanthia',
+    firstName: 'Evanthia (Eva)',
     lastName:  'Evgenidis',
     get name() {
         return `${this.firstName} ${this.lastName}`;
@@ -69,10 +69,12 @@ const about = {
     intro: {
         display: true,
         title: 'Introduction',
-        description: <>From a young age I have had a passion for expressing my emotions and thoughts through design
-            using a diverse range of visual arts, such as painting, sketching, photography, videography and crafts.
-            Presently, I am beginning to discover my areas of interest and techniques in design, while also representing
-            my originality and personality throughout it. <br/><br/>
+        description: <>My name is Evanthia (Eva) Evgenidis and I am a second year Design Student at the Royal Melbourne
+            Institute of Technology (RMIT), currently undertaking a Bachelor of Design (Digital Media). From a young age
+            I have had a passion for expressing my emotions and thoughts through design using a diverse range of visual
+            arts, such as painting, sketching, photography, videography and crafts. Presently, I am beginning to
+            discover my areas of interest and techniques in design, while also representing my originality and
+            personality throughout it. <br/><br/>
 
             My journey as a creative practitioner in design began with the production of a variety of design projects
             which entailed distinct design modes and techniques, including videography, sound composition, film editing,
@@ -84,12 +86,11 @@ const about = {
             in the smaller details. Nature is a common feature within each of my projects as well as my favoured colour
             palette, consisting of the colour green, pink and white or cream. <br/><br/>
 
-            I anticipate on specialising in website design and UX/UI design. In regards to my future aspirations of web
-            design, my most admired inspiratons surround the classical and impressionism art movement, which I have
-            articulated in many of my projects. Both themes represent my interest and appreciation of classical, poetic
-            and elegant design which embody my personality. Specifically, I have attempted to closely base my design
-            reference from Claude Monet, my most admired artist and his artwork, due to my passion of nature and
-            art. <br/><br/>
+            In regards to my future aspirations of web design, my most admired inspiratons surround the classical and
+            impressionism art movement, which I have articulated in many of my projects. Both themes represent my
+            interest and appreciation of classical, poetic and elegant design which embody my personality. Specifically,
+            I have attempted to closely base my design reference from Claude Monet, my most admired artist and his
+            artwork, due to my passion of nature and art. <br/><br/>
 
             As I continue this expedition through design and digital media, I hope my creative ideas and productions
             portray my soft and poetic styles and how there is more in less, as the smallest of details can make an

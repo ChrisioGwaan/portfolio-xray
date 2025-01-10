@@ -53,6 +53,8 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({
         }
     };
 
+
+
     return (
         <Flex
             fillWidth gap="m"
@@ -131,20 +133,21 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({
                                 {description}
                             </Text>
                         )}
-                        {/*{content?.trim() && (*/}
-                        {/*    <SmartLink*/}
-                        {/*        suffixIcon="chevronRight"*/}
-                        {/*        style={{margin: '0', width: 'fit-content'}}*/}
-                        {/*        href={href}>*/}
-                        {/*            <Text*/}
-                        {/*                variant="body-default-s">*/}
-                        {/*               {t("projectCard.label")}*/}
-                        {/*            </Text>*/}
-                        {/*    </SmartLink>*/}
-                        {/*)}*/}
+                        {content?.trim () && (
+                            <SmartLink
+                                suffixIcon="chevronRight"
+                                style={{margin: '0', width: 'fit-content'}}
+                                href={href}>
+                                    <Text
+                                        variant="body-default-s">
+                                       {t("projectCard.label")}
+                                    </Text>
+                            </SmartLink>
+                        )}
                     </Flex>
                 )}
             </Flex>
         </Flex>
     );
 };
+

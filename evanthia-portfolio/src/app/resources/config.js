@@ -20,7 +20,7 @@ const routes = {
 // Enable password protection on selected routes
 // Set password in pages/api/authenticate.ts
 const protectedRoutes = {
-    '/work/admin-software-system-for-cargo-vessel-company': true
+    '/work/1-cross-specialisation-group-project': true
 }
 
 const effects = {
