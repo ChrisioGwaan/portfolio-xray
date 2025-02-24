@@ -29,7 +29,7 @@ const social = [
     {
         name: 'LinkedIn',
         icon: 'linkedin',
-        link: 'https://www.linkedin.com/in/weixi-guan-705a48208/',
+        link: 'https://www.linkedin.com/in/weixi-guan/',
     },
     {
         name: 'X',
@@ -186,41 +186,41 @@ const gallery = {
     title: 'My photo gallery',
     description: `A photo collection by ${person.name}`,
     images: [
-        { 
-            src: '/images/gallery/img-01.jpg', 
-            alt: 'image',
-            orientation: 'horizontal'
-        },
-        { 
-            src: '/images/gallery/img-02.jpg', 
-            alt: 'image',
-            orientation: 'horizontal'
-        },
-        { 
-            src: '/images/gallery/img-03.jpg', 
-            alt: 'image',
-            orientation: 'horizontal'
-        },
-        { 
-            src: '/images/gallery/img-04.jpg', 
-            alt: 'image',
-            orientation: 'horizontal'
-        },
-        { 
-            src: '/images/gallery/img-05.jpg', 
-            alt: 'image',
-            orientation: 'horizontal'
-        },
-        { 
-            src: '/images/gallery/img-06.jpg', 
-            alt: 'image',
-            orientation: 'horizontal'
-        },
-        { 
-            src: '/images/gallery/img-07.jpg', 
-            alt: 'image',
-            orientation: 'horizontal'
-        },
+        // { 
+        //     src: '/images/gallery/img-01.jpg', 
+        //     alt: 'image',
+        //     orientation: 'horizontal'
+        // },
+        // { 
+        //     src: '/images/gallery/img-02.jpg', 
+        //     alt: 'image',
+        //     orientation: 'horizontal'
+        // },
+        // { 
+        //     src: '/images/gallery/img-03.jpg', 
+        //     alt: 'image',
+        //     orientation: 'horizontal'
+        // },
+        // { 
+        //     src: '/images/gallery/img-04.jpg', 
+        //     alt: 'image',
+        //     orientation: 'horizontal'
+        // },
+        // { 
+        //     src: '/images/gallery/img-05.jpg', 
+        //     alt: 'image',
+        //     orientation: 'horizontal'
+        // },
+        // { 
+        //     src: '/images/gallery/img-06.jpg', 
+        //     alt: 'image',
+        //     orientation: 'horizontal'
+        // },
+        // { 
+        //     src: '/images/gallery/img-07.jpg', 
+        //     alt: 'image',
+        //     orientation: 'horizontal'
+        // },
         {
             src: '/images/gallery/img-08.jpg',
             alt: 'image',
