@@ -7,12 +7,14 @@
 
 ## Portfolio Showcase
 
-- [Weixi (Chrisio) Guan](https://portfolio-xray.vercel.app/)
-- [Evanthia (Eva) Evgenidis](https://portfolio-xray-evee.vercel.app/)
+- [Weixi (Chrisio) Guan](https://chrisiogwaan.com)
+- [Evanthia (Eva) Evgenidis](https://portfolio-xray-evee.vercel.app)
 
 ## Development Setup
 
 ### **Node.js** installation
+
+Recommended version: **Node.js \>=18.x**
 
 Click [here](https://nodejs.org/en) to download and install.
 
