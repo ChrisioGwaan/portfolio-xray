@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100" src="public/images/dango.png" alt="Spotube Logo">
+  <img width="100" src="public/images/dango.png" alt="Dango Logo">
 
 <p>Ο φάκελός μας | 我哋嘅簡介 | Welcome to our portfolio</p>
 
@@ -15,6 +15,8 @@
 ### **Node.js** installation
 
 Recommended version: **Node.js \>=18.x**
+
+If you encounter issues on multiple Node.js versions, please use **Node Version Manager (nvm)** to manage your Node.js versions. This allows you to switch between different versions easily. For more details, please go to [nvm@1.2.2 latest documentation](https://github.com/coreybutler/nvm-windows/releases/tag/1.2.2).
 
 Click [here](https://nodejs.org/en) to download and install.
 
